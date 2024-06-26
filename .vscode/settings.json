@@ -1,0 +1,6 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.parameterHints.enabled": true,
+  "editor.parameterHints.cycle": true,
+  "liveServer.settings.port": 5501
+}
